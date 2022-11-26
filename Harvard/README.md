@@ -1,1 +1,1 @@
-THis is CS-50
+THis Harvard is CS-50
