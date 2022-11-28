@@ -19,7 +19,7 @@
   - [Kotlin](#kotlin)
   - [Javascript](#javascript)
     - [Nodejs](#nodejs)
-    - [Typescript](#typescript)
+  - [Typescript](#typescript)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
 - [Exams](#exams)
