@@ -7,12 +7,12 @@
 - [Colleges](#colleges)
   - [Harvard](#harvard)
   - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
+    - [Courses](#courses)
+      - [Python](#python)
+    - [Video Lectures](#video-lectures)
+    - [Instructors](#instructors)
     - [Assignments](#assignments)
     - [Exams](#exams)
-    - [instructors](#instructors)
-    - [Courses](#courses)
-    - [Python](#python)
-    - [Video Lectures](#video-lectures)
   - [Stanford](#stanford)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
@@ -37,17 +37,17 @@ This is a list of material for CS Orinted People
 
 ## Massachusetts Institute of Technology
 
+### Courses
+
+#### Python
+
+### Video Lectures
+
+### Instructors
+
 ### Assignments
 
 ### Exams
-
-### instructors
-
-### Courses
-
-### Python
-
-### Video Lectures
 
 ## Stanford
 
