@@ -45,10 +45,7 @@ This is a list of material for CS Orinted People
 
 ### Courses
 
-Course LINK
-
-#### Python
-
+- [Course LINK](https://google.com) DESCRIPTION
 - [Course](https://google.com) Python basics by kaza, [Source Matieral](https://google.com)
 - [Course](https://google.com)
 
@@ -66,11 +63,17 @@ Course LINK
 
 ## Python
 
-Coursa Course LINK
+- [Course LINK](https://google.com) DESCRIPTION
 
 ## Kotlin
 
+- [Course LINK](https://google.com) DESCRIPTION
+
 ## Javascript
+
+- [Course LINK](https://google.com) DESCRIPTION
+- [Course LINK](https://google.com) DESCRIPTION
+- [Course LINK](https://google.com) DESCRIPTION
 
 ### Nodejs
 
