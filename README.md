@@ -49,8 +49,8 @@ Course LINK
 
 #### Python
 
-- Course 1LINK Python basics by kaza, Source Matieral: LINK
-- Course 2LINK
+- [Course](https://google.com) Python basics by kaza, [Source Matieral](https://google.com)
+- [Course](https://google.com)
 
 ### Video Lectures
 
