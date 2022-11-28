@@ -23,7 +23,7 @@ This is a list of material for CS Orinted People
   - [Python](#python)
   - [Kotlin](#kotlin)
   - [Javascript](#javascript)
-    - [Nodejs](#nodejs)
+  - [Nodejs](#nodejs)
   - [Typescript](#typescript)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
