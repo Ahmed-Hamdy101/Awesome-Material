@@ -1,3 +1,9 @@
+![AWSMT](AWS2.png)
+
+# Welcome to Awesome Material 👨‍💻
+
+This is a list of material for CS Orinted People
+
 # Table of contents
 
 <!--toc:start-->
@@ -8,7 +14,6 @@
   - [Harvard](#harvard)
   - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
     - [Courses](#courses)
-      - [Python](#python)
     - [Video Lectures](#video-lectures)
     - [Instructors](#instructors)
     - [Assignments](#assignments)
@@ -30,12 +35,6 @@
 - [Reverse engineering](#reverse-engineering)
 - [Security](#security)
 <!--toc:end-->
-
-![AWSMT](AWS2.png)
-
-# Welcome to Awesome Material 👨‍💻
-
-This is a list of material for CS Orinted People
 
 # Colleges
 
