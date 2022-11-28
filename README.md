@@ -12,11 +12,11 @@
     - [instructors](#instructors)
     - [Courses](#courses)
     - [Python](#python)
-  - [Video Lectures](#video-lectures)
+    - [Video Lectures](#video-lectures)
   - [Stanford](#stanford)
 - [Algorithms](#algorithms)
-- [Exams](#exams)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
+- [Exams](#exams)
 - [Certifications](#certifications)
   - [IT Certifications](#it-certifications)
   - [CS Certifications](#cs-certifications)
@@ -53,9 +53,9 @@ This is a list of material for CS Orinted People
 
 # Algorithms
 
-# Exams
-
 # Huawei Mobile Services Training
+
+# Exams
 
 # Certifications
 
