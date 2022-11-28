@@ -14,6 +14,12 @@
     - [Assignments](#assignments)
     - [Exams](#exams)
   - [Stanford](#stanford)
+- [Language Specific](#language-specific)
+  - [Python](#python)
+  - [Kotlin](#kotlin)
+  - [Javascript](#javascript)
+    - [Nodejs](#nodejs)
+    - [Typescript](#typescript)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
 - [Exams](#exams)
@@ -41,6 +47,9 @@ This is a list of material for CS Orinted People
 
 #### Python
 
+Course 1  
+Course 2
+
 ### Video Lectures
 
 ### Instructors
@@ -50,6 +59,18 @@ This is a list of material for CS Orinted People
 ### Exams
 
 ## Stanford
+
+# Language Specific
+
+## Python
+
+## Kotlin
+
+## Javascript
+
+### Nodejs
+
+### Typescript
 
 # Algorithms
 
