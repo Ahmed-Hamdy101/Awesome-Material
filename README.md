@@ -45,10 +45,12 @@ This is a list of material for CS Orinted People
 
 ### Courses
 
+Course LINK
+
 #### Python
 
-- Course 1 Python basics by kaza, Source Matieral: LINK
-- Course 2
+- Course 1LINK Python basics by kaza, Source Matieral: LINK
+- Course 2LINK
 
 ### Video Lectures
 
@@ -63,6 +65,8 @@ This is a list of material for CS Orinted People
 # Language Specific
 
 ## Python
+
+Coursa Course LINK
 
 ## Kotlin
 
