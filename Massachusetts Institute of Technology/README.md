@@ -4,4 +4,5 @@
 
 ## Overview :
 - Video Lectures
-  -  Introduction and Goals; Data Types, Operators, and Variables
+  -  1: Introduction and Goals; Data Types, Operators, and Variables
+  -  2: Branching, Conditionals, and Iteration
