@@ -74,7 +74,7 @@ Coursa Course LINK
 
 ### Nodejs
 
-### Typescript
+## Typescript
 
 # Algorithms
 
