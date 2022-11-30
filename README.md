@@ -13,7 +13,7 @@ This is a list of material for CS Orinted People
 - [Colleges](#colleges)
   - [Harvard](#harvard)
   - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
-    - [Courses](#courses)
+    - [Course](#course)
     - [Video Lectures](#video-lectures)
     - [Instructors](#instructors)
     - [Assignments](#assignments)
@@ -40,21 +40,20 @@ This is a list of material for CS Orinted People
 
 ## Harvard
 
-## Massachusetts Institute of Technology
+## [Massachusetts Institute of Technology](https://ocw.mit.edu/)
 
-### Courses
+### Course
 
-- [Course LINK](https://google.com) DESCRIPTION
-- [Course](https://google.com) Python basics by kaza, [Source Matieral](https://google.com)
-- [Course](https://google.com)
+- [Python](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/) : This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python™ programming language
 
-### Video Lectures
+### [Video Lectures](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
 
 ### Instructors
+- [Prof. Eric Grimson](https://www.google.com/search?q=Prof.+Eric+Grimson&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
+- [Prof. John Guttag](https://www.google.com/search?q=Prof.+John+Guttag&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
+### [Assignments](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/assignments/)
 
-### Assignments
-
-### Exams
+### [Exams](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/exams/)
 
 ## Stanford
 
