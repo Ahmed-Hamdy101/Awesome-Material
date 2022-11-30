@@ -1,4 +1,4 @@
-![AWSMT](AWS2.png)
+![AWSMT](ASM.png)
 
 # Welcome to Awesome Material 👨‍💻
 
