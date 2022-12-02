@@ -80,6 +80,7 @@ This is a list of material for CS Orinted People
 # Algorithms
 
 # Huawei Mobile Services Training
+- HMS : You need to just make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience 
 
 # Exams
 
