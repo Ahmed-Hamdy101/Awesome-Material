@@ -42,6 +42,7 @@ This is a list of material for CS Orinted People
 - [CS50-Certificate](https://cs50.harvard.edu/x/2021/)
 - [Security](https://cs50.harvard.edu/x/2021/weeks/security/)
 - [Artificial Intelligence](https://cs50.harvard.edu/x/2021/weeks/ai/)
+- [Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
 
 ## [Massachusetts Institute of Technology](https://ocw.mit.edu/)
 
@@ -59,6 +60,7 @@ This is a list of material for CS Orinted People
 ### [Exams](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/exams/)
 
 ## Stanford
+--[Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
 
 # Language Specific
 
