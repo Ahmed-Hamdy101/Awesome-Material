@@ -79,8 +79,8 @@ This is a list of material for CS Orinted People
 
 # Algorithms
 
-# Huawei Mobile Services Training
-- HMS : You need to just make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience 
+# [Huawei Mobile Services Training](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160)
+- [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to  make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience 
 
 # Exams
 
