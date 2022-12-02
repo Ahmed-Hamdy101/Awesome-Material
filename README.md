@@ -38,7 +38,10 @@ This is a list of material for CS Orinted People
 
 # Colleges
 
-## Harvard
+## [Harvard](https://www.edx.org/cs50)
+- [CS50-Certificate](https://cs50.harvard.edu/x/2021/)
+- [Security](https://cs50.harvard.edu/x/2021/weeks/security/)
+- [Artificial Intelligence](https://cs50.harvard.edu/x/2021/weeks/ai/)
 
 ## [Massachusetts Institute of Technology](https://ocw.mit.edu/)
 
