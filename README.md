@@ -60,7 +60,7 @@ This is a list of material for CS Orinted People
 ### [Exams](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/exams/)
 
 ## Stanford
---[Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
+- [Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
 
 # Language Specific
 
