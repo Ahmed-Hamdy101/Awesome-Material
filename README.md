@@ -39,6 +39,7 @@ This is a list of material for CS Orinted People
 # Colleges
 
 ## [Harvard](https://www.edx.org/cs50)
+
 - [CS50-Certificate](https://cs50.harvard.edu/x/2021/)
 - [Security](https://cs50.harvard.edu/x/2021/weeks/security/)
 - [Artificial Intelligence](https://cs50.harvard.edu/x/2021/weeks/ai/)
@@ -53,39 +54,44 @@ This is a list of material for CS Orinted People
 ### [Video Lectures](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
 
 ### Instructors
+
 - [Prof. Eric Grimson](https://www.google.com/search?q=Prof.+Eric+Grimson&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
 - [Prof. John Guttag](https://www.google.com/search?q=Prof.+John+Guttag&rlz=1C1YTUH_arEG1025EG1025&sourceid=chrome&ie=UTF-8)
+
 ### [Assignments](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/assignments/)
 
 ### [Exams](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/pages/exams/)
 
 ## Stanford
+
 - [Cybersecurity](https://cs50.harvard.edu/college/2021/fall/weeks/cybersecurity/)
 
 # Language Specific
 
 ## Python
 
-- [Course LINK](https://google.com) DESCRIPTION
-
 ## Kotlin
 
-- [Course LINK](https://google.com) DESCRIPTION
+[Important Kotlin Constructs](https://kau.sh/blog/important-kotlin-constructs/)
 
 ## Javascript
 
-- [Course LINK](https://google.com) DESCRIPTION
-- [Course LINK](https://google.com) DESCRIPTION
-- [Course LINK](https://google.com) DESCRIPTION
+[Overview of Reactively](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) : A JS framework that allows you to write lazy variables that are efficiently cached and updated, making it easier to write clean and fast code.
+[Dependency Injection in JS](https://snyk.io/blog/dependency-injection-in-javascript/): Learn DI and see how frameworks impalement them.
 
 ## Nodejs
 
 ## Typescript
 
-# Algorithms
+[Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)
+
+# Algorithms and Data structures
+
+[Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 
 # [Huawei Mobile Services Training](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160)
-- [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to  make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience 
+
+- [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
 
 # Exams
 
