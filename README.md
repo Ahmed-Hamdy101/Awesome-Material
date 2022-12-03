@@ -76,7 +76,7 @@ This is a list of material for CS Orinted People
 
 ## Javascript
 
-[Overview of Reactively](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) : A JS framework that allows you to write lazy variables that are efficiently cached and updated, making it easier to write clean and fast code.
+[Overview of Reactively](https://dev.to/modderme123/super-charging-fine-grained-reactive-performance-47ph) : A JS framework that allows you to write lazy variables that are efficiently cached and updated, making it easier to write clean and fast code.    
 [Dependency Injection in JS](https://snyk.io/blog/dependency-injection-in-javascript/): Learn DI and see how frameworks impalement them.
 
 ## Nodejs
