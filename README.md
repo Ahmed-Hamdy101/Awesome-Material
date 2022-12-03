@@ -27,7 +27,6 @@ This is a list of material for CS Orinted People
   - [Typescript](#typescript)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
-- [Exams](#exams)
 - [Certifications](#certifications)
   - [IT Certifications](#it-certifications)
   - [CS Certifications](#cs-certifications)
@@ -93,7 +92,6 @@ This is a list of material for CS Orinted People
 
 - [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
 
-# Exams
 
 # Certifications
 
