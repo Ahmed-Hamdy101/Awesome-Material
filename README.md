@@ -82,7 +82,8 @@ This is a list of material for CS Orinted People
 
 ## Typescript
 
-[Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)
+[Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
+[Data Validation Using the Either Pattern](https://dev.to/polyov_dev/data-validation-in-typescript-using-the-either-pattern-4omk)
 
 # Algorithms and Data structures
 
