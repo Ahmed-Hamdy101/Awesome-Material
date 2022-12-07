@@ -97,11 +97,24 @@ This is a list of material for CS Orinted People
 # Certifications
 
 ## IT Certifications
-
+- [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa)
+- [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/)
+- [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+- [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna)
+- [AWS](https://aws.amazon.com/ar/certification/certified-solutions-architect-associate/)
+- [CISSP](https://www.isc2.org/Certifications/CISSP)
+- [MCSE](/) -- Later
+- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [ACE](https://learning.adobe.com/certification.html)
+- [Digital Marketing](https://www.edureka.co/post-graduate/digital-marketing-certification?ranMID=42536&ranEAID=G33QIqr5BWY&ranSiteID=G33QIqr5BWY-Au6stV8yB6Xa2uAjkgTpqQ&LSNSUBSITE=LSNSUBSITE)
+- [HMS](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754)
 ## CS Certifications
-
+- [CS-50](https://cs50.harvard.edu/x/2021/certificate/)
 # Machine Learning
+- supervisor Learning
+- unsupervisor Learing
 
 # Reverse engineering
-
+ - my book in Revese Engineering soon
 # Security
+- [Cryptography]() -- later
