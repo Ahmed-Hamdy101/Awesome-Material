@@ -115,6 +115,7 @@ This is a list of material for CS Orinted People
 # Machine Learning
 - supervisor Learning
 - unsupervisor Learing
+- linear regression
 
 # Reverse engineering
  - Revese Engineering 
