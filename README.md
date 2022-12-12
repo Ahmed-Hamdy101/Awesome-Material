@@ -88,6 +88,8 @@ This is a list of material for CS Orinted People
 # Algorithms and Data structures
 
 [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+[Big O](---)
+[Haystack and neddle]()
 
 # [Huawei Mobile Services Training](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160)
 
@@ -115,6 +117,9 @@ This is a list of material for CS Orinted People
 - unsupervisor Learing
 
 # Reverse engineering
- - my book in Revese Engineering soon
+ - Revese Engineering 
 # Security
 - [Cryptography]() -- later
+- SSH
+- SSL
+- Chiper
