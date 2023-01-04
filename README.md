@@ -120,7 +120,9 @@ This is a list of material for CS Orinted People
 # Reverse engineering
  - [Revese Engineering](https://0xinfection.github.io/reversing/) 
 # Security
-- [Cryptography]() -- later
-- SSH
-- SSL
-- Chiper
+- [Cryptography](https://www.tutorialspoint.com/cryptography/index.htm)
+- [SSH](https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh-servers-clients-and-keys)
+- [SSL](https://franz.com/support/tutorials/ssl-tutorial.htm)
+- [Chiper](https://www.tutorialspoint.com/cryptography/traditional_ciphers.htm)
+- [Linux](https://www.javatpoint.com/linux-tutorial)
+- [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
