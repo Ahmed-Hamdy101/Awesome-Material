@@ -118,7 +118,7 @@ This is a list of material for CS Orinted People
 - linear regression
 
 # Reverse engineering
- - Revese Engineering 
+ - [Revese Engineering](https://0xinfection.github.io/reversing/) 
 # Security
 - [Cryptography]() -- later
 - SSH
