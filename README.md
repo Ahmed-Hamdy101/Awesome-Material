@@ -42,7 +42,7 @@ This is a list of material for CS Orinted People
 - [interview tech](#interview-tech)
 - [Cyber Security Career](#cyber-security-career)
 - [Cyber Security Career](#cyber-security-career)
-- [How to Build IOS App On Windwos With Swifit](#how-to-build-ios-app-on-windows-with-swifit)
+- [How to Build IOS App On Windwos With Swift](#how-to-build-ios-app-on-windows-with-swift)
 - [Resources](#resources)
 <!--toc:end-->
 
