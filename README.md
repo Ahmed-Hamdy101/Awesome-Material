@@ -197,6 +197,6 @@ This is a list of material for CS Orinted People
   - [VMware Mac OS X installation](https://o7planning.org/10569/install-mac-os-virtual-machine-in-vmware)
   - [Sign Up With Apple](https://support.apple.com/en-us/HT204316)
   - [Downlaod Xcode](https://developer.apple.com/xcode/resources/)
-  - I am not going to say how start require someknowledge in swift in order to devlop app
+  - I am not going to say how start require some knowledge in swift in order to devlop app
 # Resources
  we will patch it later ..........
