@@ -95,28 +95,28 @@ This is a list of material for CS Orinted People
 [Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
 [Data Validation Using the Either Pattern](https://dev.to/polyov_dev/data-validation-in-typescript-using-the-either-pattern-4omk)
 ## PHP
-- Learn PHP
-- Advance PHP
-- Database
-- PDO With MySQL
-- Project based On Learn
-- Composer For PHP
-- PHP 7
-- PHP Unit
+- [Learn PHP](https://www.codingame.com/playgrounds/34845/le-php---les-bases-du-langage/introduction): PHP is Server-side Language build for create and developing web application, PHP its stand for Hypertext Preprocessor that work like Back-en, you will learn PHP Basic from here.
+- [Advance PHP](https://www.phptpoint.com/advanced-php-tutorial/) : After completing basics, you will go to learn Advance PHP that makes your Productivity High
+- [Database Orcale](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) : Learn Database From Orcale here you will see Free Turorial for full Database Trainning
+- [PDO With MySQL](https://phpdelusions.net/pdo_examples/connect_to_mysql): Learn to make PDO connection With mysql database ,queries,filter data, fetch data 
+- [Shop Complete Project in PDO ](https://github.com/Ahmed-Hamdy101/PHP-Tutorial/tree/master/6-Using%20PHP%20with%20MySQL)
+- [Composer For PHP](https://wpscholar.com/courses/learning-composer-for-php/)
+- [PHP 7](https://www.tutorialspoint.com/php7/index.htm) : Learn how to make Dependencies in PHP
+- [PHP Unit](https://startutorial.com/view/phpunit-beginner-part-1-get-started)
 - Web Server
-   - Apache
-   - Xammp
-   - Wamp
-   - Mamp 
+   - [Apache](https://httpd.apache.org/) :The Apache HTTP Server is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. Apache is developed and maintained by an open community of  developers under the auspices of the  Apache Software Foundation.
+   - [Xampp](https://www.apachefriends.org/)
+   - [Wampserver](https://www.wampserver.com/en/)
+   - [Mamp](https://www.mamp.info/en/downloads/)
 - Website
-  - Three House
-  - PHP Net
+  - [Three House](https://teamtreehouse.com/tracks/beginning-php)
+  - [PHP Net](https://www.php.net/)
 ## Java EE
- - How Install Java EE
+ - [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html)
 #Framworks Web Full Stack
-- Laravel
-- Codeigniter
-- Next JS
+- [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
+- [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
+- [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : its fullstack framwork for build app with NodeJS
 # Algorithms and Data structure
 
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
