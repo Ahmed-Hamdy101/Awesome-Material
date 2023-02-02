@@ -43,6 +43,7 @@ This is a list of material for CS Orinted People
 - [Cyber Security Career](#cyber-security-career)
 - [Cyber Security Career](#cyber-security-career)
 - [How to Build IOS App On Windwos With Swifit](#how-to-build-ios-app-on-windows-with-swifit)
+- [Resources]
 <!--toc:end-->
 
 # Colleges
@@ -90,7 +91,7 @@ This is a list of material for CS Orinted People
 [Dependency Injection in JS](https://snyk.io/blog/dependency-injection-in-javascript/): Learn DI and see how frameworks impalement them.
 
 ## Nodejs
- -[Learn NodeJs](https://www.mygreatlearning.com/node-js/free-courses)
+  - [Learn NodeJs](https://www.mygreatlearning.com/node-js/free-courses)
 ## Typescript
 
 [Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
@@ -188,3 +189,10 @@ This is a list of material for CS Orinted People
   - VMware installation on Win
   - Download Xcode and install
   - Launch Xcode and start
+# Resources
+ we will patch it later ..........
+# Instructor 
+- (Mr/Eng Hossam)[]
+   - Students
+   - (Mina Samah)[]
+   - (Ahmed Hamdy)[]
