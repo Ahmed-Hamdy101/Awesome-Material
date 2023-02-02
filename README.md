@@ -24,7 +24,12 @@ This is a list of material for CS Orinted People
   - [Kotlin](#kotlin)
   - [Javascript](#javascript)
   - [Nodejs](#nodejs)
-  - [Typescript](#typescript)
+  - [PHP](#php)
+  - [Java EE](#java-ee)
+- [Framworks Web Full Stack](#frameworks-web-full-stack)
+  - [Laravel](#laravel)
+  - [Codeingit](#codeingit)
+  - [Next JS](#next-js)
 - [Algorithms](#algorithms)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
 - [Certifications](#certifications)
@@ -33,6 +38,11 @@ This is a list of material for CS Orinted People
 - [Machine Learning](#machine-learning)
 - [Reverse engineering](#reverse-engineering)
 - [Security](#security)
+- [Clean Code](#clean-code)
+- [interview tech](#interview-tech)
+- [Cyber Security Career](#cyber-security-career)
+- [Cyber Security Career](#cyber-security-career)
+- [How to Build IOS App On Windwos With Swifit](#how-to-build-ios-app-on-windows-with-swifit)
 <!--toc:end-->
 
 # Colleges
@@ -125,5 +135,5 @@ This is a list of material for CS Orinted People
 - [Chiper](https://www.tutorialspoint.com/cryptography/traditional_ciphers.htm)
 - [Linux](https://www.javatpoint.com/linux-tutorial)
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
-# Cleam Code
+# Clean Code
  - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org
