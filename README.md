@@ -179,16 +179,25 @@ This is a list of material for CS Orinted People
 - [Linux](https://www.javatpoint.com/linux-tutorial)
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
 # Clean Code
- - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
+ - [Clean Code](https://drive.google.com/file/d/1OMX1qEo24oTdAxofz2y1zXrtfFDuAbm5/view?usp=share_link) : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
 # Interview Tech
   - [interview tech](https://www.techseries.dev/): how to pass interview in googl,Facebook,Apple,IBM 
-# Cyber Security Career
- - this Tutorial unavailable right we will patch it later
-  [Career Path]()
+# Cyber Security Certification Career
+  -  Certification 
+     - Security+
+     - GSEC
+     - SSCP
+     - CEH
+     - OSCP
+     - CISA
+     - CISSP
+     - CISM
+     - CPP  
 # IOS On Windows
   - this Tutorial unavailable right we will patch it later
-  - VMware installation on Win
-  - Download Xcode and install
-  - Launch Xcode and start
+  - [VMware Mac OS X installation](https://o7planning.org/10569/install-mac-os-virtual-machine-in-vmware)
+  - [Sign Up With Apple](https://support.apple.com/en-us/HT204316)
+  - [Downlaod Xcode](https://developer.apple.com/xcode/resources/)
+  - I am not going to say how start require someknowledge in swift in order to devlop app
 # Resources
  we will patch it later ..........
