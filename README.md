@@ -27,7 +27,7 @@ This is a list of material for CS Orinted People
   - [Java EE](#java-ee)
 - [Full Stack Frameworks](#full-stack-frameworks)
   - [Laravel](#laravel)
-  - [Codeingit](#codeingit)
+  - [Codeigniter](#codeigniter)
   - [Next JS](#next-js)
 - [Algorithms and Data structure](#algorithms-and-data-structure)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
@@ -114,9 +114,12 @@ This is a list of material for CS Orinted People
 ## Java EE
  - [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html) : full installation for java ee server side language
 # Full Stack Frameworks
-- # [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
-- # [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
-- # [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : its fullstack framwork for build app with NodeJS
+- # Laravel
+  - [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
+- # Codeigniter
+  - [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
+- # Next JS
+  - [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : its fullstack framwork for build app with NodeJS
 # Algorithms and Data structure
 
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
