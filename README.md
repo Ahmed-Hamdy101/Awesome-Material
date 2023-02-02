@@ -100,19 +100,19 @@ This is a list of material for CS Orinted People
 - [Database Orcale](https://devgym.oracle.com/pls/apex/dg/class/databases-for-developers-foundations.html) : Learn Database From Orcale here you will see Free Turorial for full Database Trainning
 - [PDO With MySQL](https://phpdelusions.net/pdo_examples/connect_to_mysql): Learn to make PDO connection With mysql database ,queries,filter data, fetch data 
 - [Shop Complete Project in PDO ](https://github.com/Ahmed-Hamdy101/PHP-Tutorial/tree/master/6-Using%20PHP%20with%20MySQL)
-- [Composer For PHP](https://wpscholar.com/courses/learning-composer-for-php/)
-- [PHP 7](https://www.tutorialspoint.com/php7/index.htm) : Learn how to make Dependencies in PHP
-- [PHP Unit](https://startutorial.com/view/phpunit-beginner-part-1-get-started)
+- [Composer For PHP](https://wpscholar.com/courses/learning-composer-for-php/) : Learn how to make Dependencies in PHP
+- [PHP 7](https://www.tutorialspoint.com/php7/index.htm) : here you will Learn PHP 7 a new concepts in php
+- [PHP Unit](https://startutorial.com/view/phpunit-beginner-part-1-get-started): learn how to testing apps in php unit
 - Web Server
    - [Apache](https://httpd.apache.org/) :The Apache HTTP Server is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. Apache is developed and maintained by an open community of  developers under the auspices of the  Apache Software Foundation.
-   - [Xampp](https://www.apachefriends.org/)
-   - [Wampserver](https://www.wampserver.com/en/)
-   - [Mamp](https://www.mamp.info/en/downloads/)
-- Website
+   - [Xampp](https://www.apachefriends.org/) :its HTTP Server is a free and open-source cross-platform web server software build for php
+   - [Wampserver](https://www.wampserver.com/en/) :its HTTP Server is a free and open-source cross-platform web server software build for php
+   - [Mamp](https://www.mamp.info/en/downloads/) : its HTTP Server is a free and open-source cross-platform web server software build for php , python ,cloud , smtp
+- Website for php
   - [Three House](https://teamtreehouse.com/tracks/beginning-php)
-  - [PHP Net](https://www.php.net/)
+  - [PHP Net](https://www.php.net/) 
 ## Java EE
- - [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html)
+ - [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html) : full installation for java ee server side language
 #Framworks Web Full Stack
 - [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
 - [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
@@ -143,7 +143,7 @@ This is a list of material for CS Orinted People
 - [Map Function](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
 - [Reduce](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Reduction.html)
 - [Filter](https://llimllib.github.io/bloomfilter-tutorial/#:~:text=A%20Bloom%20filter%20is%20a,may%20be%20in%20the%20set.)
-# [Huawei Mobile Services Training](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160)
+# [Huawei Mobile Services Training]
 
 - [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
 
@@ -178,4 +178,4 @@ This is a list of material for CS Orinted People
 - [Linux](https://www.javatpoint.com/linux-tutorial)
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
 # Clean Code
- - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org
+ - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
