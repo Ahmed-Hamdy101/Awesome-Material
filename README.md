@@ -191,8 +191,3 @@ This is a list of material for CS Orinted People
   - Launch Xcode and start
 # Resources
  we will patch it later ..........
-# Instructor 
-- (Mr.Eng Hossam ⭐⭐⭐⭐)[]
-   - Students
-     - (Mina Samah ✔️)[]
-     - (Ahmed Hamdy ✔️)[]
