@@ -12,12 +12,12 @@ This is a list of material for CS Orinted People
 - [Colleges](#colleges)
   - [Harvard](#harvard)
   - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
-    - [Course](#course)
-    - [Video Lectures](#video-lectures)
-    - [Instructors](#instructors)
-    - [Assignments](#assignments)
-    - [Exams](#exams)
-  - [Stanford](#stanford)
+   - [Course](#course)
+   - [Video Lectures](#video-lectures)
+   - [Instructors](#instructors)
+   - [Assignments](#assignments)
+   - [Exams](#exams)
+   - [Stanford](#stanford)
 - [Language Specific](#language-specific)
   - [Python](#python)
   - [Kotlin](#kotlin)
@@ -26,7 +26,7 @@ This is a list of material for CS Orinted People
   - [PHP](#php)
   - [Java EE](#java-ee)
 - [Full Stack Frameworks](#full-stack-frameworks)
-  - [Laravel](#Laravel)
+  - [Laravel](#laravel)
   - [Codeingit](#codeingit)
   - [Next JS](#next-js)
 - [Algorithms and Data structure](#algorithms-and-data-structure)
@@ -114,9 +114,9 @@ This is a list of material for CS Orinted People
 ## Java EE
  - [How Install Java EE](https://www.oracle.com/java/technologies/ee8-install-guide.html) : full installation for java ee server side language
 ## Full Stack Frameworks
-- [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
-- [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
-- [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : its fullstack framwork for build app with NodeJS
+- # [Laravel](https://www.tutorialspoint.com/laravel/laravel_overview.htm) : its fullstack framwork for build apps with php
+- # [Codeigniter](https://www.tutorialspoint.com/codeigniter/index.htm) : its fullstack framwork for build app with PHP
+- # [Next JS](https://www.tutorialspoint.com/nextjs/index.htm) : its fullstack framwork for build app with NodeJS
 # Algorithms and Data structure
 
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
@@ -150,7 +150,7 @@ This is a list of material for CS Orinted People
 
 # Certifications
 
-- IT Certifications
+- # IT Certifications
   - [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) : Red Hat Certified System Administrator certification is able to perform the core system administration skills 
   - [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/) : is a certification program intended for people who seek entry-level jobs in an information technology
   - [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) : Certified Ethical Hacker: CEH certification program teaches latest hacking tools and techniques used by hacking professionals to lawfully hack 
@@ -161,7 +161,7 @@ This is a list of material for CS Orinted People
   - [ACE](https://learning.adobe.com/certification.html)
   - [Digital Marketing](https://www.edureka.co/post-graduate/digital-marketing-certification?ranMID=42536&ranEAID=G33QIqr5BWY&ranSiteID=G33QIqr5BWY-Au6stV8yB6Xa2uAjkgTpqQ&LSNSUBSITE=LSNSUBSITE) : is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising,
   - [HMS](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754) : Huawei Mobile Services is a collection of proprietary services and application programming interfaces developed by Huawei Technologies Co., Ltd. It is typically installed on Huawei devices running the Android operating system including devices already distributed with Google Mobile Services.
-- CS Certifications
+- # CS Certifications
   - [CS-50](https://cs50.harvard.edu/x/2021/certificate/) : Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide
 # Machine Learning
   - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus) : you need to make account, BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
