@@ -26,7 +26,7 @@ This is a list of material for CS Orinted People
   - [PHP](#php)
   - [Java EE](#java-ee)
 - [Full Stack Frameworks](#full-stack-frameworks)
-  - [Laravel](#laravel)
+  - [Laravel](#Laravel)
   - [Codeingit](#codeingit)
   - [Next JS](#next-js)
 - [Algorithms and Data structure](#algorithms-and-data-structure)
