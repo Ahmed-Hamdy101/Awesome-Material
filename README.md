@@ -9,7 +9,6 @@ This is a list of material for CS Orinted People
 <!--toc:start-->
 
 - [Table of contents](#table-of-contents)
-- [Welcome to Awesome Material 👨‍💻](#welcome-to-awesome-material-👨‍💻)
 - [Colleges](#colleges)
   - [Harvard](#harvard)
   - [Massachusetts Institute of Technology](#massachusetts-institute-of-technology)
@@ -41,8 +40,7 @@ This is a list of material for CS Orinted People
 - [Clean Code](#clean-code)
 - [interview tech](#interview-tech)
 - [Cyber Security Career](#cyber-security-career)
-- [Cyber Security Career](#cyber-security-career)
-- [How to Build IOS App On Windwos With Swift](#how-to-build-ios-app-on-windows-with-swift)
+- [IOS On Windows](#ios-on-windows)
 - [Resources](#resources)
 <!--toc:end-->
 
@@ -184,8 +182,8 @@ This is a list of material for CS Orinted People
 # Cyber Security Career
  - this Tutorial unavailable right we will patch it later
   [Career Path]()
-# How to Build IOS App On Windwos With Swift
- - this Tutorial unavailable right we will patch it later
+# IOS On Windows
+  - this Tutorial unavailable right we will patch it later
   - VMware installation on Win
   - Download Xcode and install
   - Launch Xcode and start
