@@ -166,7 +166,7 @@ This is a list of material for CS Orinted People
 - CS Certifications
   - [CS-50](https://cs50.harvard.edu/x/2021/certificate/) : Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide
 # Machine Learning
-  -[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus) : you need to make account, BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
+  - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus) : you need to make account, BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
 
 # Reverse engineering
  - [Revese Engineering](https://0xinfection.github.io/reversing/) 
