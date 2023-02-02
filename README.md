@@ -178,4 +178,13 @@ This is a list of material for CS Orinted People
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
 # Clean Code
  - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
-# Clean Code
+# Interview Tech
+  - [interview tech](https://www.techseries.dev/): how to pass interview in googl,Facebook,Apple,IBM 
+# Cyber Security Career
+ - this Tutorial unavailable right we will patch it later
+  [Career Path]()
+# How to Build IOS App On Windwos With Swift
+ - this Tutorial unavailable right we will patch it later
+  - VMware installation on Win
+  - Download Xcode and install
+  - Launch Xcode and start
