@@ -39,7 +39,7 @@ This is a list of material for CS Orinted People
 - [Security](#security)
 - [Clean Code](#clean-code)
 - [interview tech](#interview-tech)
-- [Cyber Security Career](#cyber-security-career)
+- [Cyber Security Career Certification](#cyber-security-career-certification)
 - [IOS On Windows](#ios-on-windows)
 - [Resources](#resources)
 <!--toc:end-->
@@ -77,7 +77,7 @@ This is a list of material for CS Orinted People
 # Language Specific
 
 ## Python
- -[Learning Python](https://www.learnpython.org/)
+ - [Learning Python](https://www.learnpython.org/)
 
 ## Kotlin
 
@@ -179,10 +179,10 @@ This is a list of material for CS Orinted People
 - [Linux](https://www.javatpoint.com/linux-tutorial)
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
 # Clean Code
- - [Clean Code](https://drive.google.com/file/d/1OMX1qEo24oTdAxofz2y1zXrtfFDuAbm5/view?usp=share_link) : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
+ - [Clean Code](https://drive.google.com/file/d/1OMX1qEo24oTdAxofz2y1zXrtfFDuAbm5/view?usp=share_link) : it's book that allow you to write a prefact programs and increase of your quality code in org
 # Interview Tech
   - [interview tech](https://www.techseries.dev/): how to pass interview in googl,Facebook,Apple,IBM 
-# Cyber Security Certification Career
+# Cyber Security Career Certification
   -  Certification 
      - Security+
      - GSEC
@@ -194,7 +194,6 @@ This is a list of material for CS Orinted People
      - CISM
      - CPP  
 # IOS On Windows
-  - this Tutorial unavailable right we will patch it later
   - [VMware Mac OS X installation](https://o7planning.org/10569/install-mac-os-virtual-machine-in-vmware)
   - [Sign Up With Apple](https://support.apple.com/en-us/HT204316)
   - [Downlaod Xcode](https://developer.apple.com/xcode/resources/)
