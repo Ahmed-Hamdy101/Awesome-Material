@@ -30,7 +30,7 @@ This is a list of material for CS Orinted People
   - [Laravel](#laravel)
   - [Codeingit](#codeingit)
   - [Next JS](#next-js)
-- [Algorithms](#algorithms)
+- [Algorithm](#algorithm)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
 - [Certifications](#certifications)
   - [IT Certifications](#it-certifications)
@@ -94,13 +94,55 @@ This is a list of material for CS Orinted People
 
 [Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
 [Data Validation Using the Either Pattern](https://dev.to/polyov_dev/data-validation-in-typescript-using-the-either-pattern-4omk)
-
-# Algorithms and Data structures
+## PHP
+- Learn PHP
+- Advance PHP
+- Database
+- PDO With MySQL
+- Project based On Learn
+- Composer For PHP
+- PHP 7
+- PHP Unit
+- Web Server
+   - Apache
+   - Xammp
+   - Wamp
+   - Mamp 
+- Website
+  - Three House
+  - PHP Net
+## Java EE
+ - How Install Java EE
+#Framworks Web Full Stack
+- Laravel
+- Codeigniter
+- Next JS
+# Algorithms and Data structure
 
 - [Graph Theory](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
-- [Big O](---)
-- [Haystack and neddle]()
-
+- [Big O](https://www.geeksforgeeks.org/analysis-algorithms-big-o-analysis/)
+- [Haystack and needle](https://medium.com/@fajardocj/algorithm-practice-find-a-needle-in-a-haystack-516ceeefd26c)
+- [Recursion](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
+- [Bubble](https://www.geeksforgeeks.org/bubble-sort/#:~:text=Bubble%20Sort%20is%20the%20simplest,time%20complexity%20is%20quite%20high.)
+- [Insertion Sprt](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm#:~:text=Insertion%20Operation,any%20given%20index%20of%20array.)
+- [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
+- [Median Values](https://www.geeksforgeeks.org/median/#:~:text=The%20Median%20is%20the%20middle,of%20numbers%20below%20and%20above.)
+- [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
+- [Interfaces](https://opendatastructures.org/versions/edition-0.1c/ods-java/node5.html#:~:text=An%20interface%20describes%20what%20a,or%20meaning%2C%20of%20those%20operations.)
+- [Set](https://www.udacity.com/blog/2021/05/cpp-sets-explained.html#:~:text=A%20set%20is%20a%20data,a%20set%20must%20be%20unique.)
+- [Map](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
+- [Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+- [Queue](https://www.geeksforgeeks.org/queue-data-structure/)
+- [Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+- [Binary Search](https://www.geeksforgeeks.org/binary-search/)
+- [AVL Tree](https://www.geeksforgeeks.org/insertion-in-an-avl-tree/)
+- [Single Rotation](https://www.educative.io/answers/common-avl-rotation-techniques)
+- [Double Rotation](https://book.huihoo.com/data-structures-and-algorithms-with-object-oriented-design-patterns-in-c++/html/page327.html#:~:text=The%20combination%20of%20the%20two,go%20left%20and%20then%20right.)
+- [Hash Table](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
+- [Functional Programming](https://medium.com/swlh/functional-programming-goes-hand-in-hand-with-immutable-data-structures-93a04feba1f3)
+- [Map Function](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
+- [Reduce](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Reduction.html)
+- [Filter](https://llimllib.github.io/bloomfilter-tutorial/#:~:text=A%20Bloom%20filter%20is%20a,may%20be%20in%20the%20set.)
 # [Huawei Mobile Services Training](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160)
 
 - [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
