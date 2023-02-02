@@ -30,7 +30,7 @@ This is a list of material for CS Orinted People
   - [Laravel](#laravel)
   - [Codeingit](#codeingit)
   - [Next JS](#next-js)
-- [Algorithm](#algorithm)
+- [Algorithms and Data structure](#algorithms-and-data-structure)
 - [Huawei Mobile Services Training](#huawei-mobile-services-training)
 - [Certifications](#certifications)
   - [IT Certifications](#it-certifications)
@@ -78,6 +78,7 @@ This is a list of material for CS Orinted People
 # Language Specific
 
 ## Python
+ -[Learning Python](https://www.learnpython.org/)
 
 ## Kotlin
 
@@ -89,7 +90,7 @@ This is a list of material for CS Orinted People
 [Dependency Injection in JS](https://snyk.io/blog/dependency-injection-in-javascript/): Learn DI and see how frameworks impalement them.
 
 ## Nodejs
-
+ -[Learn NodeJs](https://www.mygreatlearning.com/node-js/free-courses)
 ## Typescript
 
 [Mapped Types](https://www.lloydatkinson.net/posts/2022/going-further-with-typescript-part-1/)  
@@ -143,30 +144,28 @@ This is a list of material for CS Orinted People
 - [Map Function](https://www.geeksforgeeks.org/which-data-structure-is-used-by-map/)
 - [Reduce](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/Reduction.html)
 - [Filter](https://llimllib.github.io/bloomfilter-tutorial/#:~:text=A%20Bloom%20filter%20is%20a,may%20be%20in%20the%20set.)
-# [Huawei Mobile Services Training]
+# Huawei Mobile Services Training
 
 - [HMS](https://developer.huawei.com/consumer/en/training/course/video/101620715873000160) : You need to make account with your phone and Register and you will get Full Course, require Android Basics and and Mobile Experience
 
 
 # Certifications
 
-## IT Certifications
-- [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) : Red Hat Certified System Administrator certification is able to perform the core system administration skills 
-- [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/) : is a certification program intended for people who seek entry-level jobs in an information technology
-- [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) : Certified Ethical Hacker: CEH certification program teaches latest hacking tools and techniques used by hacking professionals to lawfully hack 
-- [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) : s an information technology certification from Cisco Systems. CCNA certification is an associate-level Cisco Career certification.
-- [AWS](https://aws.amazon.com/ar/certification/certified-solutions-architect-associate/)
-- [CISSP](https://www.isc2.org/Certifications/CISSP) :  is an independent information security certification granted by the International Information System Security Certification Consortium, also known as (ISC)²
-- [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) : Master Android development with Kotlin and build professional apps for the world's most popular mobile platform using Android Studio and Kotlin
-- [ACE](https://learning.adobe.com/certification.html)
-- [Digital Marketing](https://www.edureka.co/post-graduate/digital-marketing-certification?ranMID=42536&ranEAID=G33QIqr5BWY&ranSiteID=G33QIqr5BWY-Au6stV8yB6Xa2uAjkgTpqQ&LSNSUBSITE=LSNSUBSITE) : is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising,
-- [HMS](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754) : Huawei Mobile Services is a collection of proprietary services and application programming interfaces developed by Huawei Technologies Co., Ltd. It is typically installed on Huawei devices running the Android operating system including devices already distributed with Google Mobile Services.
-## CS Certifications
-- [CS-50](https://cs50.harvard.edu/x/2021/certificate/) : Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide
+- IT Certifications
+  - [Red Hat Certified System Administrator](https://www.redhat.com/en/services/certification/rhcsa) : Red Hat Certified System Administrator certification is able to perform the core system administration skills 
+  - [MCSA: Windows Server 2012](https://learn.microsoft.com/en-us/certifications/mcsa-windows-server-certification/) : is a certification program intended for people who seek entry-level jobs in an information technology
+  - [CEH](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) : Certified Ethical Hacker: CEH certification program teaches latest hacking tools and techniques used by hacking professionals to lawfully hack 
+  - [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html#~about-ccna) : s an information technology certification from Cisco Systems. CCNA certification is an associate-level Cisco Career certification.
+  - [AWS](https://aws.amazon.com/ar/certification/certified-solutions-architect-associate/)
+  - [CISSP](https://www.isc2.org/Certifications/CISSP) :  is an independent information security certification granted by the International Information System Security Certification Consortium, also known as (ISC)²
+  - [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) : Master Android development with Kotlin and build professional apps for the world's most popular mobile platform using Android Studio and Kotlin
+  - [ACE](https://learning.adobe.com/certification.html)
+  - [Digital Marketing](https://www.edureka.co/post-graduate/digital-marketing-certification?ranMID=42536&ranEAID=G33QIqr5BWY&ranSiteID=G33QIqr5BWY-Au6stV8yB6Xa2uAjkgTpqQ&LSNSUBSITE=LSNSUBSITE) : is the promotion of brands to connect with potential customers using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising,
+  - [HMS](https://developer.huawei.com/consumer/en/training/exam-home/101616662449026754) : Huawei Mobile Services is a collection of proprietary services and application programming interfaces developed by Huawei Technologies Co., Ltd. It is typically installed on Huawei devices running the Android operating system including devices already distributed with Google Mobile Services.
+- CS Certifications
+  - [CS-50](https://cs50.harvard.edu/x/2021/certificate/) : Introduction to Computer Science from Harvard, better known as CS50, is the largest course on the Harvard campus and more than 2,000,000 learners worldwide
 # Machine Learning
-- supervisor Learning
-- unsupervisor Learing
-- linear regression
+  -[Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction#syllabus) : you need to make account, BreakIntoAI with Machine Learning Specialization. Master fundamental AI concepts and develop practical machine learning skills in the beginner-friendly, 3-course program by AI visionary Andrew Ng
 
 # Reverse engineering
  - [Revese Engineering](https://0xinfection.github.io/reversing/) 
@@ -179,3 +178,4 @@ This is a list of material for CS Orinted People
 - [ Qubes for Security and Tips](https://www.qubes-os.org/endorsements/)
 # Clean Code
  - Clean Code : it's book that allow you to write a prefact programs and increase of your quality code in org( -- we will upload book for this link later in java )
+# Clean Code
