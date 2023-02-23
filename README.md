@@ -8,6 +8,7 @@ This is a list of material for CS Orinted People
 
 <!--toc:start-->
 
+- [Welcome to Awesome Material 👨‍💻](#welcome-to-awesome-material-👨‍💻)
 - [Table of contents](#table-of-contents)
 - [Colleges](#colleges)
   - [Harvard](#harvard)
@@ -23,10 +24,12 @@ This is a list of material for CS Orinted People
   - [Kotlin](#kotlin)
   - [Javascript](#javascript)
   - [Nodejs](#nodejs)
+  - [Typescript](#typescript)
   - [PHP](#php)
   - [Java EE](#java-ee)
-- [Full Stack Frameworks](#full-stack-frameworks)
+- [Backend Frameworks](#backend-frameworks)
   - [Laravel](#laravel)
+- [Full Stack Frameworks](#full-stack-frameworks)
   - [Codeigniter](#codeigniter)
   - [Next JS](#next-js)
 - [Algorithms and Data structure](#algorithms-and-data-structure)
@@ -34,12 +37,12 @@ This is a list of material for CS Orinted People
 - [Certifications](#certifications)
   - [IT Certifications](#it-certifications)
   - [CS Certifications](#cs-certifications)
+  - [Cybersecurity Career Certification](#cybersecurity-career-certification)
 - [Machine Learning](#machine-learning)
 - [Reverse engineering](#reverse-engineering)
 - [Security](#security)
 - [Clean Code](#clean-code)
-- [interview tech](#interview-tech)
-- [Cybersecurity Career Certification](#cyber-security-career-certification)
+- [Interview Tech](#interview-tech)
 - [IOS On Windows](#ios-on-windows)
 - [Resources](#resources)
 <!--toc:end-->
