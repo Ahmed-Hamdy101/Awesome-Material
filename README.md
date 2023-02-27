@@ -229,5 +229,28 @@ This is a list of material for CS Orinted People
 - I am not going to say how start require some knowledge in swift in order to devlop app
 
 # Resources
+- [Udacity](/www.udacity.com/course/)
+- [GeekForGeeks](www.geeksforgeeks.org)
+- [Ex Facebook Tech Lead](https://www.techseries.dev)
+- [MIT](https://ocw.mit.edu/)
+- [Harved CS-50](https://www.edx.org/cs50)
+- [LearnPython](https://www.learnpython.org/)
+- [mygreatlearning](https://www.mygreatlearning.com/node-js/free-courses)
+- [Three House](https://teamtreehouse.com/tracks/)
+- [Three House](https://teamtreehouse.com)
+- [PHP Official Site](https://www.php.net/)
+- [Laravel](https://www.laravel.com)
+- [Codeigniter](https://www.codeigniter.com) 
+- [Next JS](https://www.nextjs.com)
+- [Medium](https://medium.com)
+- [opendatastructures](https://opendatastructures.org)
+- [tutorialspoint](https://www.tutorialspoint.com)
+- [microsoft](https://www.learn.microsoft.com)
+- [Red Hat](https://www.redhat.com/en/services/certification)
+- [digitalocean](https://www.digitalocean.com/community/tutorials/)
+- [javatpoint](https://www.javatpoint.com/linux-tutorial)
+- [cisco](https://www.cisco.com/c/en/us/training-events/training-certifications)
+- [Coursera](https://www.coursera.org/learn)
+- [huawei](https://developer.huawei.com)
 
-we will patch it later ..........
+
