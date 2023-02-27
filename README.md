@@ -236,7 +236,6 @@ This is a list of material for CS Orinted People
 - [Harved CS-50](https://www.edx.org/cs50)
 - [LearnPython](https://www.learnpython.org/)
 - [mygreatlearning](https://www.mygreatlearning.com/node-js/free-courses)
-- [Three House](https://teamtreehouse.com/tracks/)
 - [Three House](https://teamtreehouse.com)
 - [PHP Official Site](https://www.php.net/)
 - [Laravel](https://www.laravel.com)
